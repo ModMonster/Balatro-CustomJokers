@@ -1,0 +1,18 @@
+{
+	"id": "mod_mods",
+	"name": "Mod's Mods",
+	"author": ["ModMonster"],
+	"description": "A custom joker/voucher/whatever I want pack",
+	"prefix": "mod_mods",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "0077AD",
+	"badge_text_colour": "FFFFFF",
+	"display_name": "Mod's Mods",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)",
+		"Balatro (==1.0.1n-FULL)"
+	]
+}
