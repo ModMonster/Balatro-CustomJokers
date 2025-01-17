@@ -1,2 +1,2 @@
 -- Load all the jokers!
-SMODS.load_file("jokers/skull_and_crossbones.lua")()
+SMODS.load_file("jokers/evil_bones.lua")()
