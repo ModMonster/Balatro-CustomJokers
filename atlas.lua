@@ -1,3 +1,5 @@
+-- Joker atlas
+
 SMODS.Atlas {
     key = "Jokers",
     px = 71,
