@@ -3,7 +3,7 @@
 	"name": "Mod's Mods",
 	"author": ["ModMonster"],
 	"description": "A custom joker/voucher/whatever I want pack",
-	"prefix": "mod_mods",
+	"prefix": "mods",
 	"main_file": "main.lua",
 	"priority": 0,
 	"badge_colour": "0077AD",
