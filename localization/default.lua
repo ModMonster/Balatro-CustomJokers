@@ -15,6 +15,17 @@ return {
                     "{C:attention}Mr. Bones",
                 }
             }
+        },
+        Spectral = {
+            c_mods_spire = {
+                name = "Spire",
+                text = {
+                    "Remove all {C:attention}stickers",
+                    "from selected {C:attention}Joker",
+                    "and move them to a",
+                    "random stickerless {C:attention}Joker"
+                }
+            }
         }
     }
 }
