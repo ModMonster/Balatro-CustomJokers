@@ -14,6 +14,14 @@ return {
                     "Be saved by",
                     "{C:attention}Mr. Bones",
                 }
+            },
+            j_mods_revolving_door = {
+                name = "Revolving Door",
+                text = {
+                    "Alternates between",
+                    "{C:attention}+2{} and {C:red}-2{} hand",
+                    "size each round"
+                },
             }
         },
         Spectral = {
