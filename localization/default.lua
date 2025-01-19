@@ -18,10 +18,17 @@ return {
             j_mods_revolving_door = {
                 name = "Revolving Door",
                 text = {
-                    "Alternates between",
-                    "{C:attention}+2{} and {C:red}-2{} hand",
-                    "size each round"
+                    "Alternate between",
+                    "{C:attention}+2{} and {C:red}-2{} hand size",
+                    "when {C:attention}Blind{} is selected"
                 },
+            },
+            j_mods_disco_joker = {
+                name = "Disco Joker",
+                text = {
+                    "Makes the music",
+                    "very {C:attention}funky"
+                }
             }
         },
         Spectral = {
