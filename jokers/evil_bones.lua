@@ -9,6 +9,7 @@ SMODS.Joker {
     blueprint_compat = false,
     eternal_compat = true,
     perishable_compat = true,
+    -- TODO: impletment locked_loc_vars to hide text saying mr bones until mr bones is unlocked
     calculate = function(self, card, context)
         if (context.blueprint_card) then return end -- disable blueprint / brainstorm
         if (context.game_over and G.GAME.chips/G.GAME.blind.chips >= 0.25) then

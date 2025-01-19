@@ -29,6 +29,14 @@ return {
                     "Makes the music",
                     "very {C:attention}funky"
                 }
+            },
+            j_mods_lucky_7s = {
+                name = "Lucky 7s",
+                text = {
+                    "All scoring cards become",
+                    "{C:attention}Lucky{} cards if played",
+                    "hand contains a {C:attention}7{}"
+                }
             }
         },
         Spectral = {

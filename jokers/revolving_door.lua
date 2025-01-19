@@ -6,7 +6,7 @@ SMODS.Joker {
     atlas = "Jokers",
     unlocked = true,
     discovered = false,
-    blueprint_compat = false,
+    blueprint_compat = true, -- TODO: blueprint compat!!
     eternal_compat = true,
     perishable_compat = true,
     config = {
